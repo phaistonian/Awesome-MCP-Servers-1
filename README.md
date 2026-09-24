@@ -567,6 +567,7 @@ Books, libraries, and creative tools.
 Commerce and marketplace integrations.
 
 - Mercado Libre — https://mcp.mercadolibre.com/
+- BestPrice Shopping (⭐) — https://github.com/TheBestCo/bestprice-mcp — Official read-only shopping MCP for Greece: evidence-backed decisions, grouped-product search, delivered-price offer comparison, and price history. Remote Streamable HTTP: `https://mcp.bestprice.gr/mcp`; auth: none.
 - Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation
 - ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server
 
